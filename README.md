@@ -2,6 +2,8 @@
 
 BERT (Bidirectional Encoder Representations from Transformers) is a paper published by researchers at Google AI Language in October 2018. It has caused a stir in the Machine Learning community by presenting state-of-the-art results in a wide variety of NLP tasks, including Question Answering (SQuAD v1.1), Natural Language Inference (MNLI), and others. On December 9, 2019, it was reported that BERT had been adopted by Google Search for over 70 languages.
 
+Google CLaat link: https://docs.google.com/document/d/1NwOshs-3_eBvzpP8XHsfYtCtRZhMleKM07xXQqawpwI/edit#
+
 ## Setup
 
 **Using Colab GPU for Training**
