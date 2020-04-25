@@ -16,7 +16,7 @@ Install the transformers package from Hugging Face which will give us a pytorch 
 
 ## Download CoLA dataset
 
-We’ll use The Corpus of Linguistic Acceptability (CoLA) dataset for single sentence classification. It’s a set of sentences labeled as grammatically correct or incorrect. It was first published in May of 2018, and is one of the tests included in the “GLUE Benchmark” on which models like BERT are competing.
+We’ll use The Corpus of Linguistic Acceptability (CoLA) dataset for single sentence classification. It’s a set of sentences labeled as grammatically correct or incorrect. It was first published in May of 2018, and is one of the tests included in the “GLUE Benchmark” on which models like BERT are competing. The dataset is hosted on GitHub in this repo: https://nyu-mll.github.io/CoLA/
 
 We’ll use the wget package to download the dataset to the Colab instance’s file system.
 
